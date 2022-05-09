@@ -24,7 +24,7 @@ shadowsocks-ws 客户端只负责转发经过加密的流量，须配合 [Shadow
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/npssnet/shadowsocks-ws)
 
 ### Railway
 
